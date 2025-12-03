@@ -1,0 +1,5 @@
+{
+  "name": "Alcohol Risk Assessor",
+  "description": "A health tool to calculate daily alcohol intake and assess risks for liver cancer, hepatitis, and mortality based on medical data.",
+  "requestFramePermissions": []
+}
